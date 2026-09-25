@@ -1,0 +1,4 @@
+Opening bucket: sonal-graph-2026-sps
+Prefix: graph_data/
+Listing objects...
+Found 12000 pages.

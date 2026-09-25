@@ -1,0 +1,108 @@
+Reading local graph directory: graph_data
+Found 12000 pages.
+Read 500/12000 local pages
+Read 1000/12000 local pages
+Read 1500/12000 local pages
+Read 2000/12000 local pages
+Read 2500/12000 local pages
+Read 3000/12000 local pages
+Read 3500/12000 local pages
+Read 4000/12000 local pages
+Read 4500/12000 local pages
+Read 5000/12000 local pages
+Read 5500/12000 local pages
+Read 6000/12000 local pages
+Read 6500/12000 local pages
+Read 7000/12000 local pages
+Read 7500/12000 local pages
+Read 8000/12000 local pages
+Read 8500/12000 local pages
+Read 9000/12000 local pages
+Read 9500/12000 local pages
+Read 10000/12000 local pages
+Read 10500/12000 local pages
+Read 11000/12000 local pages
+Read 11500/12000 local pages
+Read 12000/12000 local pages
+
+==============================
+GRAPH
+==============================
+Pages : 12000
+Links : 1940788
+
+OUTGOING LINK STATISTICS
+========================
+Average : 161.732333
+Median  : 163.000000
+Minimum : 0
+Maximum : 325
+Q20     : 63
+Q40     : 130
+Q60     : 195
+Q80     : 259
+
+INCOMING LINK STATISTICS
+========================
+Average : 161.732333
+Median  : 162.000000
+Minimum : 115
+Maximum : 233
+Q20     : 151
+Q40     : 159
+Q60     : 165
+Q80     : 172
+PageRank iteration 1: change=0.08795609
+PageRank iteration 2: change=0.00961007
+PageRank iteration 3: change=0.00108137
+
+==============================
+TOP 5 PAGES BY PAGERANK
+==============================
+1. 9970.html PR=0.000185913197
+2. 4807.html PR=0.000185621893
+3. 1388.html PR=0.000185295351
+4. 369.html PR=0.000176459054
+5. 1685.html PR=0.000166037356
+
+PageRank iterations: 3
+PageRank sum: 1.000000000000
+Closeness processed 500/12000 nodes
+Closeness processed 1000/12000 nodes
+Closeness processed 1500/12000 nodes
+Closeness processed 2000/12000 nodes
+Closeness processed 2500/12000 nodes
+Closeness processed 3000/12000 nodes
+Closeness processed 3500/12000 nodes
+Closeness processed 4000/12000 nodes
+Closeness processed 4500/12000 nodes
+Closeness processed 5000/12000 nodes
+Closeness processed 5500/12000 nodes
+Closeness processed 6000/12000 nodes
+Closeness processed 6500/12000 nodes
+Closeness processed 7000/12000 nodes
+Closeness processed 7500/12000 nodes
+Closeness processed 8000/12000 nodes
+Closeness processed 8500/12000 nodes
+Closeness processed 9000/12000 nodes
+Closeness processed 9500/12000 nodes
+Closeness processed 10000/12000 nodes
+Closeness processed 10500/12000 nodes
+Closeness processed 11000/12000 nodes
+Closeness processed 11500/12000 nodes
+Closeness processed 12000/12000 nodes
+
+==============================
+BEST CLOSENESS CENTRALITY
+==============================
+Page  : 7263.html
+Score : 0.504795961296
+
+==============================
+TIMINGS
+==============================
+Graph loading : 3.295495 seconds
+Statistics    : 0.006573 seconds
+PageRank      : 0.376766 seconds
+Closeness     : 60.730870 seconds
+TOTAL         : 64.416381 seconds
